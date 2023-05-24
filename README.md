@@ -1,4 +1,4 @@
-# Uniride Vehicle Management System
+# UniRide Vehicle Management System
 
 ## Final Year Project 2022-23
 
