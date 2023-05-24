@@ -38,13 +38,28 @@ https://drive.google.com/file/d/1oA33tJL0HyU3SB4gvl_dKoZGe0KsvOAD/view?usp=share
 
 ## Screenshots
 
+![Screenshot (365)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/a95540c9-89ac-4869-b314-f4177bca4662)
 
+![Screenshot (376)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/e0075817-eada-4171-bb33-f1a08bbe51dd)
 
+![Screenshot (377)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/a7038b35-b7d1-4d6e-ae27-efa8a0b5a22a)
 
-![Screenshot (365)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/371115fc-3a50-45e9-ae31-ae308bdda18c)
+![Screenshot (366)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/9d6fa32a-abc5-477d-8c8f-b884a7c3dff8)
 
+![Screenshot (367)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/33da75d7-5949-4ba6-95bb-55a983b782d8)
 
-![Screenshot (376)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/0c43ba74-8443-42a1-bbf4-beac3851132f)
-![Screenshot (377)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/a2522690-702b-4be4-b7ba-58bdc58b2e3f)
-![Screenshot (368)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/cb136106-477c-4d53-bf9d-bec7a02f173c)
-![Screenshot (379)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/c02ca163-5029-4784-94eb-67cc4d9b20bf)
+![Screenshot (368)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/ae6f3cc8-969b-4751-b5cb-e9ecc1a9c409)
+
+![Screenshot (369)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/55400ebb-9101-46e4-b0d0-9f3bfaa92250)
+
+![Screenshot (370)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/f86a5c0f-fcce-4478-b797-1b0ec87376c4)
+
+![Screenshot (372)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/92d59946-ae45-4f6d-a96d-22266075870c)
+
+![Screenshot (373)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/7aa37750-7677-46c0-82da-3d7e739b6db7)
+
+![Screenshot (374)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/bce95e99-2336-46cf-8aea-22fae1f79f99)
+
+![Screenshot (375)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/495388a8-3b91-4dfb-90fb-4c390195f74c)
+
+![Screenshot (371)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/57027dc1-0bc8-4a3d-8e70-65f1bf3f5dec)
