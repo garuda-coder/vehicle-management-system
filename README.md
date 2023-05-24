@@ -7,14 +7,17 @@ individuals or businesses manage their vehicles online. The system typically pro
 a central dashboard that allows users to track vehicle information, maintenance schedules, 
 fuel consumption, driver information, and other data related to their fleet of vehicles.
 <br>
+<br>
 The Vehicle Management System keeps track the information about the Vehicles,
 Employees, Location, automated IN and OUT time, vehicle information, maintenance
 schedules, fuel consumption, driver information, and other data related to their fleet of
 vehicles.
 <br>
+<br>
 In the project, the First module of this product is an admin where the application is
 hosted on the web and the admin maintains the database. The admin used for adding drivers,
 vehicles, view bookings, billings and allots the vehicle to the customer.
+<br>
 <br>
 The second module is user for view the drivers and book the vehicles from the web site.
 
