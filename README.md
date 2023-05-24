@@ -38,6 +38,7 @@ https://drive.google.com/file/d/1oA33tJL0HyU3SB4gvl_dKoZGe0KsvOAD/view?usp=share
 
 ## Screenshots
 
+
 ![Screenshot (365)](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/a95540c9-89ac-4869-b314-f4177bca4662)
 
 <br>
