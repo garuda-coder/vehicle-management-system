@@ -8,7 +8,7 @@ a central dashboard that allows users to track vehicle information, maintenance 
 fuel consumption, driver information, and other data related to their fleet of vehicles.
 
 
-![uni](https://github.com/garuda-coder/vehicle-management-system/assets/73305920/58baa540-99c2-4aa2-867c-d99ac6d229fe)
+<img src="https://github.com/garuda-coder/vehicle-management-system/assets/73305920/58baa540-99c2-4aa2-867c-d99ac6d229fe" width = 40px height = 40px>
 
 
 ## Project Report
