@@ -7,8 +7,10 @@ individuals or businesses manage their vehicles online. The system typically pro
 a central dashboard that allows users to track vehicle information, maintenance schedules, 
 fuel consumption, driver information, and other data related to their fleet of vehicles.
 
+Tech Stack Used: **PHP, MySQL, HTML, CSS, JavaScript, BootStrap**
 
-<img src="https://github.com/garuda-coder/vehicle-management-system/assets/73305920/58baa540-99c2-4aa2-867c-d99ac6d229fe" width = 40px height = 40px>
+
+<img src="https://github.com/garuda-coder/vehicle-management-system/assets/73305920/58baa540-99c2-4aa2-867c-d99ac6d229fe" width = 100px height = 100px>
 
 
 ## Project Report
