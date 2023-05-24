@@ -10,9 +10,13 @@ fuel consumption, driver information, and other data related to their fleet of v
 Tech Stack Used: **PHP, MySQL, HTML, CSS, JavaScript, Bootstrap**
 
 
+
+
 <div align = "center">
-   <img src="https://github.com/garuda-coder/vehicle-management-system/assets/73305920/58baa540-99c2-4aa2-867c-d99ac6d229fe" width = 200px height = 200px>
+   <img src="https://github.com/garuda-coder/vehicle-management-system/assets/73305920/58baa540-99c2-4aa2-867c-d99ac6d229fe" width = 300px height = 300px>
 </div>
+
+
 
 
 ## Project Report
